@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/thedma04/node_boilerplate.svg?branch=master)](https://travis-ci.org/thedma04/node_boilerplate)
 # Always in progress 👷‍
 
 # Get Started
